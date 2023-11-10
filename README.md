@@ -10,7 +10,7 @@ Buscamos Devs con ganas de sumarse a los desafios que hoy tenemos en **Nubi**.
 &nbsp;
 ## Finalidad ✨
 
-El objetivo de este desafío es desarrollar una API REST usando Python. En esta URL encontraras un mock de usuarios https://nubitestapi.free.beeceptor.com/users . Utiliza ese archivo como fuente de datos para desarrollar una API que realizce las operaciones abajo descritas.
+El objetivo de este desafío es desarrollar una API REST usando Python. En esta URL encontraras un mock de usuarios https://nubi-challenge.wiremockapi.cloud/users . Utiliza ese archivo como fuente de datos para desarrollar una API que realizce las operaciones abajo descritas.
 
 &nbsp;
 ## Requerimientos
