@@ -1,4 +1,6 @@
-![screenshot](https://puu.sh/HyrmV/95c458d9d9.png)
+![screenshot](https://coderpad.io/wp-content/uploads/2022/09/coderpad-blogpost-python-red-1.png)
+
+
 
 #
 &nbsp;
