@@ -33,7 +33,7 @@ La única dependencia de código para este desafío es Python. Aparte del IDE de
 &nbsp;
 ## BONUS 💡
 - Tests
-- Seguridad
+- Seguridad (proteger los endpoints contra uso no autorizado, implementando algun mecanismo de validacion de acceso a los mismos)
 - manejo de variables y scopes
 - Que soporte QueryParams como:
   - pagination: `?page=2&limit=5`
